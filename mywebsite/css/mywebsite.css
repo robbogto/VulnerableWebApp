@@ -1,0 +1,74 @@
+body {
+    font-family: 'Calibri light', sans-serif;
+}
+
+body {
+    background-color: #808080;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+
+
+header {
+    font-family: 'calibri';
+    color: #00ffff;
+    text-shadow: 3px 3px 1px black;
+    display: flex;
+    align-items: top;
+    justify-content: space-between;
+    background-color: #333;
+    padding-left: 25px;
+    
+}
+
+#logo {
+    height: 11vh;
+}
+
+h2 {
+    font-family: 'calibri', sans-serif
+}
+
+#nav-website ul {
+    list-style-type: none;
+    margin: 0;
+    padding-right: 250;
+    overflow: hidden;
+    background-color: #333;
+    align-items: center;
+}
+
+#nav-website li {
+    float: left;
+}
+
+#nav-website li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 12px;
+    text-decoration: none;
+    font-size: 24px
+}
+
+#nav-website li a:hover {
+    background-color: #19e6e6;
+}
+
+div {
+    color: white;
+}
+
+h2 {
+    color: #fe3e3e;
+
+}
+
+h2 span {
+    background-color: #333;
+    
+}
+
+
